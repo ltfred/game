@@ -105,7 +105,7 @@ tortoise-orm==0.11.11
 traitlets==4.3.2
 typed-ast==1.2.0
 ujson==1.35
-urllib3==1.23
+urllib3==1.24.2
 uvloop==0.12.1
 vine==1.1.4
 wcwidth==0.1.7
